@@ -1,5 +1,5 @@
 # :vulcan_salute: Hello there! I’m Lev Ganochkin <br>
-I'm a ***React frontend developer*** with ***2+*** years of working experience 💻<br>
+I'm a ***React frontend developer*** with ***3*** years of commercial experience 💻<br>
 For now, this GitHub is for my ***training and pet-projects only*** 👀<br> 
 You'll see my portfolio later in future 😉
 
